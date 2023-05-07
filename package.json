@@ -1,7 +1,7 @@
 {
-    "name": "bocchibot",
+    "name": "oliviabot2.0",
     "version": "1.5.0",
-    "description": "BocchiBot is a multipurpose WhatsApp bot.",
+    "description": "Yokoso Master, watashi no namaewa olivia desu.",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
